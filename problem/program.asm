@@ -88,8 +88,8 @@
                 //D=A
 
 
-                @color
-                D=M //cogio la variable de arriba
+                @256
+                D=A //cogio la variable de arriba
                 
                 @pscreen
                 A=M 
